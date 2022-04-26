@@ -1,0 +1,3 @@
+git bash
+touch - create a file
+nano - edit file
